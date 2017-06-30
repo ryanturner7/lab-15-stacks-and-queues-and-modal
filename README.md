@@ -10,15 +10,22 @@
   * write a question and observation on canvas
 
 ## Description
-  * write at least three tests for each method that you've written
-  * complete the Stack data structure by adding a `pop()` and `peek()` method
-  * complete the Queue data structure by adding an `dequeue()` method
-  * implement Balanced Brackets using a Stack; from your whiteboard exercise
-  * in comments above or within each function, note the Big-O runtime
+#### CSS CHALLENGE
+* create a base css for the following tags
+ * body, p, pre, span, a, blockquote, form, input, button, textarea, h1-h6, and any others you feel like
+ * create a modal class 
+ 
+#### DATA STRUCTURE CHALLENGE
+* Implement a stack consturctor with `push` and `pop` methods
+* Implement a queue constroctor with `enqueue` and `dequeue` methods
+
+# Testing
+* Test your stack methods
+* Test your queue methods
 
 ## Bonus Points:
-  * implement Reverse Polish Notation using your Stack
-  * implement a Queue data structure using two Stacks
+* 1pt Implement your stack using a SinglyLinkedList
+* 1pt Implement your queue using a SinglyLinkedList
 
 #### Rubric:
 * Tests: 2pts
