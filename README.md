@@ -12,7 +12,7 @@
 ## Description
 #### CSS CHALLENGE
 * create a base css for the following tags
- * body, p, pre, span, a, blockquote, form, input, button, textarea, h1-h6, and any others you feel like
+ * body, p, pre, span, a, blockquote, hr, strong, em, form, input, button, textarea, h1-h6, and any others you feel like
  * create a modal class 
  
 #### DATA STRUCTURE CHALLENGE
